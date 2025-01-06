@@ -1,4 +1,4 @@
-# Scholar Scraper Supreme
+# Google scholar Web Scraper - Research Assistant
 
 A Python-based tool for gathering metadata and downloading full text pdfs through Google Scholar.
 
