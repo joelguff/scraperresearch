@@ -65,7 +65,7 @@ Ultimately it is open source and free to use for non-commercial purposes.
 ### Help me, help you.
 As of 07/01/2024, I am a student of the Bachelor degree in Cybersecurity. 
 Currently, I don't have a income but I would love to spend more time on these projects however I cannot do this due to lack of financial resources.
-If this has helped you in any way, please consider donating to my PayPal account: joelguff1@gmail.com.
+If this has helped you in any way, please consider buying me a coffee, or donating to my PayPal account: joelguff1@gmail.com.
 Please also consider sharing this project with your friends and colleagues.
 Thank you for your support!
 Joel
