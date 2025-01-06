@@ -26,7 +26,7 @@ A Python-based tool for gathering metadata and downloading full text pdfs throug
 - Rate limiting constraints
 - Simple error handling implementation
 
-##### Setup Process
+### Setup Process
 
 1. Clone repository:
 
